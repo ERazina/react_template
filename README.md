@@ -2,8 +2,6 @@
 
 ## Бойлерплейт для быстрого старта разработки на стеке react/typescript/styled-components.
 
-Github Репозиторий
-
 ## Стек:
 
 React
@@ -13,7 +11,7 @@ StyledComponents
 
 ## Быстрый старт
 
-git clone git@github.com:ERazina/react_template.git
+git clone https://github.com/ERazina/react_template.git
 pnpm install
 pnpm run start
 
