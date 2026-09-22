@@ -1,20 +1,20 @@
-React Boilerplate Template
-Бойлерплейт для быстрого старта разработки на стеке react/typescript/styled-components.
+h1. React Template
+h2. Бойлерплейт для быстрого старта разработки на стеке react/typescript/styled-components.
 
 Github Репозиторий
 
-Стек:
+h2. Стек:
 React
 TS
 react-router
 StyledComponents
 
-Быстрый старт
+h2. Быстрый старт
 git clone git@github.com:ERazina/react_template.git
 pnpm install
 pnpm run start
 
-Скрипты
+h2. Скрипты
 
 dev - Запуск dev окружения
 
