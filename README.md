@@ -4,10 +4,13 @@
 
 ## Стек:
 
-React
-TS
-react-router
-StyledComponents
+- React 19
+  - React Router 8
+- TypeScript 5
+- Styled Components 6
+- TanStack Query 5
+  - TanStack Query Devtools 5
+- Vite 8
 
 ## Быстрый старт
 
